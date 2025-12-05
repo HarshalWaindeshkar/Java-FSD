@@ -9,8 +9,8 @@ The system allows faculty to add students, record daily attendance, calculate at
 | Field | Details |
 |-------|---------|
 | **Name** | Harshal Waindeshkar |
-| **Reg. No.** | 23070907 |
-| **Roll No.** | 66 |
+| **Reg. No.** | 23070720 |
+| **Roll No.** | 50 |
 | **Branch** | Computer Technology |
 | **Batch** | A3 |
 

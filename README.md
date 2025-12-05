@@ -50,5 +50,3 @@ The system allows faculty to add students, record daily attendance, calculate at
   - Overall attendance stats  
 
 ---
-
-## 📂 Project Structure
